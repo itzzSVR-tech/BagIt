@@ -52,6 +52,9 @@ export const upsertUser = async (data: NewUser) => {
             set: { ...data, updatedAt: new Date() },
         })
         .returning();
+    if (!user) {
+        throw new Error("Failed to upsert user");
+    }
     return user;
 };
 
