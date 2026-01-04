@@ -12,7 +12,9 @@ const pool = new Pool({ connectionString: ENV.DATABASE_URL });
 
 // log when first connection is made
 pool.on("connect", () => {
-    console.log("Database connected successfully ✅");
+    console.log(
+        "Database pool initialized and first connection established ✅"
+    );
 });
 
 // log when an error occurs
