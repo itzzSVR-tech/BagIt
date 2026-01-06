@@ -31,7 +31,7 @@
 
 ---
 
-## ✨ <a href="#introduction" target="_blank">Introduction</a>
+## ✨ <a href="introduction" target="_blank">Introduction</a>
 
 **BagIt** is a modern, full-stack shopping and bag management platform that allows users to browse products, add items to their bag by bidding and manage quantities.
 
@@ -41,7 +41,7 @@ Whether you are building an e-commerce prototype or a production-ready shopping 
 
 ---
 
-## ⚙️ <a href="#tech-stack" target="_blank">Tech Stack</a>
+## ⚙️ <a href="tech-stack" target="_blank">Tech Stack</a>
 
 -   **React/Vite** – Frontend framework with fast and responsive UI development
 -   **TypeScript** – Strong typing for better maintainability and developer experience
@@ -51,7 +51,7 @@ Whether you are building an e-commerce prototype or a production-ready shopping 
 
 ---
 
-## 🔋 <a href="#features" target="_blank">Features</a>
+## 🔋 <a href="features" target="_blank">Features</a>
 
 👉 **Product Browsing**  
 Browse products with rich images and descriptions.
@@ -69,7 +69,7 @@ And much more, including scalable architecture and reusable components.
 
 ---
 
-## 🤸 <a href="#quick-start" target="_blank">Quick Start</a>
+## 🤸 <a href="quick-start" target="_blank">Quick Start</a>
 
 Follow these steps to run **BagIt** locally on your machine.
 
@@ -106,7 +106,7 @@ Open http://localhost:3000 in your browser to view the application.
 
 ---
 
-## 🔐 <a href="#environment-variables" target="_blank">Environment Variables</a>
+## 🔐 <a href="environment-variables" target="_blank">Environment Variables</a>
 
 Create a .env file in the below mentioned directories and add the following:
 
@@ -131,7 +131,7 @@ VITE_CLERK_PUBLISHABLE_KEY=<YOUR_CLERK_PUBLISHABLE_KEY>
 VITE_API_URL=http://localhost:3000/api
 ```
 
-## 🚀 <a href="#more" target="_blank">More</a>
+## 🚀 <a href="more" target="_blank">More</a>
 
 ### Future Enhancements
 
