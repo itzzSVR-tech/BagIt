@@ -90,19 +90,37 @@ git clone https://github.com/itzzSVR-tech/BagIt.git
 cd BagIt
 ```
 
-### Installation
+### Backend (`/backend`)
+
+#### Installation
 
 ```bash
-npm install
+bun install
 ```
 
-### Running the Project
+#### Running the Project
 
 ```bash
-npm run dev
+bun dev
 ```
 
 Open http://localhost:3000 in your browser to view the application.
+
+### Frontend (`/frontend`)
+
+#### Installation
+
+```bash
+bun install
+```
+
+#### Running the Project
+
+```bash
+bun dev
+```
+
+Open http://localhost:5173 in your browser to view the application.
 
 ---
 
