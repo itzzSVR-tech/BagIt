@@ -154,10 +154,13 @@ VITE_API_URL=http://localhost:3000/api
 ### Future Enhancements
 
 -   Wishlist functionality
+-   Bidding System
 -   Admin dashboard for product management
 -   Inventory tracking
 -   Discounts & promo codes
 -   Mobile-first optimizations
+-   User Rating and Reviews
+-   Filters for Easy Searching
 
 ### ⭐ Support
 
